@@ -1,8 +1,8 @@
 package main
 
 import (
-	"WailsDemo/server"
-	"WailsDemo/server/translate"
+	"MCModHanHua/server"
+	"MCModHanHua/server/translate"
 	"context"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 	"os"

@@ -1,8 +1,8 @@
 package server
 
 import (
-	"WailsDemo/server/translate"
-	"WailsDemo/server/youdaoyunAPI"
+	"MCModHanHua/server/translate"
+	"MCModHanHua/server/youdaoyunAPI"
 	"bufio"
 	"context"
 	"fmt"

@@ -1,4 +1,4 @@
-module WailsDemo
+module MCModHanHua
 
 go 1.23
 
